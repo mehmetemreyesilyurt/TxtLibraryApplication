@@ -1,0 +1,2 @@
+Username/Name/Surname/No/Age/Email
+mehmetemre/Mehmet Emre/Yeşilyurt/1210505005/20/mehmet-2014emre@hotmail.com/
